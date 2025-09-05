@@ -5,6 +5,6 @@ awesome-go
 .idea
 .vscode
 test_stale_repositories_log
-*.exe
+*700000.exe
 # Local Netlify folder
 .netlify
